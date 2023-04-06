@@ -101,7 +101,7 @@ pipeline {
             deleteDirs: true,
             disableDeferredWipeout: true
           )
-          input 'Congrats! The deployment on Production environment is successful.'
+          input 'Congrats The deployment on Production environment is successful.'
         }
       }
     }
